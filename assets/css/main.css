@@ -2998,7 +2998,7 @@ body[data-aos-easing=ease] [data-aos] {
     transform: translateY(-50%); }
 .section-title .title {
   color: #fff;
-  font-size: 60px;
+  font-size: 50px;
   letter-spacing: -1.2px;
   line-height: 61.5px;
   text-transform: uppercase;
@@ -4365,14 +4365,14 @@ body .mfp-wrap .mfp-container .mfp-content .mfp-close:hover::before, body .mfp-w
   font-size: 20px;
   line-height: 30px;
   max-width: 570px;
-  margin-left: 33%; }
+  margin-left: 10%; }
   @media (max-width: 767px) {
     .about-area .section-content {
       margin-left: 0; } }
 .about-area .section-content-bottom {
   font-size: 16px;
   line-height: 26px;
-  margin-left: 46px; }
+  margin-left: 0px; }
   @media (max-width: 767px) {
     .about-area .section-content-bottom {
       margin-left: 0;
